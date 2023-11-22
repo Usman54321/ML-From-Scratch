@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-Here are a selection of Machine Learning projects that I have recently completed over the past few months.
+Here are a selection of Machine Learning projects techiques which I have coded up from scratch.
 
 - [Adaboost From Scratch](/Adaboost%20From%20Scratch/)
 - [Decision Trees From Scratch](/Decision%20Trees%20From%20Scratch/)
